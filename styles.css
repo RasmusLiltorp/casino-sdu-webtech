@@ -1,0 +1,15 @@
+a, :hover, :active, :visited {
+	text-decoration: none;
+}
+
+body {
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	color: black;
+}
+
+.main-title{
+	font-size: xx-large;
+	text-align: center;
+}
